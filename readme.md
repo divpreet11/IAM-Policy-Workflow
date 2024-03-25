@@ -1,0 +1,1 @@
+Create a AWS IAM Policy and attach this policy to IAM USER
