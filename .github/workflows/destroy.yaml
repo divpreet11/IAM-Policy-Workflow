@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Destroy terraform:
+  Destroy_terraform:
     runs-on: ubuntu-latest
     
     steps:
